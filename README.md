@@ -70,7 +70,7 @@ Integration with Gmail API for real-world use.
 
 🧑‍💻 Author
 Ashish Kumar
-BCA 
+BCA (2022-2025)
 Galgotias University
 
 
