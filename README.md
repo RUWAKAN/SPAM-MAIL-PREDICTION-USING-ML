@@ -8,7 +8,7 @@ A machine learning project that classifies email messages as **Spam** or **Ham (
 
 | Ham (Not Spam) | Spam |
 |---|---|
-| ![Ham](OK%20IMAGE.jpg) | ![Spam](SPAM%20IMAGE.jpg) |
+| ![Ham](OK%20IMAGE.jpg) | ![Spam](SPAM%10IMAGE.jpg) |
 
 ---
 
